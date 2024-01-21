@@ -26,7 +26,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ### Links
 
 - Solution URL: []
-- Live Site URL: []
+- Live Site URL: [https://github.com/Kelvin-Palma/social-links-profile-main]
 
 ## My process
 
